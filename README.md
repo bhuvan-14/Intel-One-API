@@ -16,7 +16,7 @@ The program:
 
 Generates large arrays of complex numbers.
 
-****3)**Performs multiplication using:**
+**3)**Performs multiplication using:**
 Parallel execution on the selected device (CPU/GPU/FPGA)
 
 Scalar execution on the CPU for baseline comparison
@@ -31,7 +31,7 @@ CPU version – Uses SYCL device selector to run on CPU.
 
 GPU version – Uses SYCL device selector to target Intel GPU.
 
-**4)**Purpose**
+**4)Purpose**
 
 Demonstrate how to write parallel code using SYCL.
 
@@ -41,7 +41,7 @@ Analyze performance differences between CPU, GPU, and FPGA.
 
 Explore the benefits of heterogeneous computing.
 
-**5)**Expected Output****
+**5)Expected Output**
 
 Name of the device used for execution.
 
